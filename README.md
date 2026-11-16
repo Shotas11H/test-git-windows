@@ -1,3 +1,0 @@
-# test-git-windows
-
-test
